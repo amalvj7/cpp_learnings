@@ -1,0 +1,24 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.pdb
+
+# Data files (optional - uncomment if you don't want to track student data)
+# student.txt
+
+# IDE files
+.vscode/
+*.vcxproj
+*.vcxproj.filters
+*.sln
+
+# System files
+.DS_Store
+Thumbs.db
